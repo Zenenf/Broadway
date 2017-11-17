@@ -1,4 +1,60 @@
+/*Zone Section*/
 .zone {
   background-image:url('../images/the-flatiron-building.png');
-  background-repeat: no-repeat;
+  text-align: center;
+}
+
+ .zone h1 {
+  color: white;
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ .zone p {
+  color: white;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+a {
+  color: white;
+}
+/*Process Section*/
+#process h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+.clutch {
+  text-align: center;
+}
+
+.clutch h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+.clutch p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+/*Mini Zone Section*/
+.zone h2{
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+/*About Section was done with process section*/
+/*Footer*/
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-family: Helvetica;
+  font-size: 11 px;
 }
